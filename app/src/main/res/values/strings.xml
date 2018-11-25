@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">planets</string>
+
+    <string-array name="planets_name">
+        <item>Merkurius</item>
+        <item>Venus</item>
+        <item>Bumi</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturnus</item>
+        <item>Uranus</item>
+        <item>Neptunus</item>
+        <item>Pluto</item>
+    </string-array>
+
+    <string-array name="planets_detail">
+        <item>Planet Merkurius merupakan planet yang paling dekat dengan matahari dalam sistem tata surya atau susunan tata surya. Planet Merkurius menjadi planet yang paling kecil setelah planet Pluto tidak disahkan menjadi sebuah planet. Selain menjadi planet paling kecil merkurius juga merupakan planet yang paling dekat di dalam susunan tata surya.
+Karena jaraknya sangat dekat dengan matahari membuat masa revolusinya hanya selama88 hari saja namun masa rotasinya cukup lama apabila di bandingkan dengan bumi hanya berkisar 59 hari saja.
+Planet merkurius bisa terlihat dari bumi ketika subuh atau pada saat magrib saja, sebab sudut pandangnya dengan matahari sangat kecil dimana memang planet merkurius memang memiliki rentangan yang paling jauh sebesar 28,3 derajat.
+Matahari akan terlihat dua kali lebih besar bila di lihat dari planet merkurius didandingkan dilihat dari bumi. Suhu permukaan Merkurius dapat mencapai 427˚C pada tengah hari dan-184 ˚C pada tengah malam.
+Permukaan Merkurius sangat panas dan kering dan permukaannya memiliki sejumlah kawah atau lubang ledakan yang terjadi akibat tabrakan dengan meteor dan komet. Gravitasi pada permukaan planet merkurius adalah sekitar sepertiga dari permukaan bumi.</item>
+        <item>Planet venus merupakan planet kedua yang paling dekat dengan Matahari setelah Merkurius di dalam susunan tata surya. Planet ini megorbitkan Matahari selama 224,7 hari . Venus tidak memiliki satelit alami di dalam sistem tata surya.
+Selain bulan, planet ini merupakan objek alami tercerah di langit malam, dengan mgnitudo tampak sebesar -4,6 yang cukup cerah untuk menghasilkan bayangan. Venus merupakan planet inferiordengan sudut elongasi yang mencapai 47,8 derajat celcius.
+Untuk melihat kecerahan planet venus dari bumi ketika sebelum matahari terbit atau setelah matahari terbenam, sehingga di sebut bintang fajar atau bintang senja. Venus juga merupakan planet yang dekat dengan bumi, bahkan ukurannya juga mendekati.
+Namun, planet ini sangat berbeda dengan bumi, planet venus memiliki atmosfer yang terdiri dari 96% karbondioksida. Tekanan atmosfer permukaan venus 92 lebih besar dibandingkan dengan bumi.Suhu permukaan planet ini sebesar 735 K (462 ˚C; 863˚F), bahkan menjadi planet yang paling panas di dalam susunan tata surya planet.</item>
+        <item>Planet bumi atau planet Earth merupakan urutan nomor tiga dari matahari. Bumi adalah planet satu-satunya dalam tata surya yang bisa mendukung kehidupan. Ini karena jaraknya dari matahari, adanya atmosfer yang bersifat melindungi, dan suatu campuran bahan kimia yang tepat.
+Bumi adalah suatu planet yang dinamis, yang secara konstan mendaur ulang dirinya sendiri. Juga merupakan satu-satunya yang memiliki unsur (seperti air)  yang dapat berupa gas , cairan, dan padat.
+Planet ini berinteraksi secara gravitasi dengan objek lainnya di luar angkasa, terutama dengan mmatahari dan bulan. Pada saat mengelilingi matahari dalam satu orbit, Bumi berputar pada sumbunya sebanyak 366,26 kali, yang menciptakan 365,26 hari atau tahun sideris.
+Perputaran bumi pada sumbunya miring 23,4˚ dari serenjang bidang orbit, yang meyebabkan terjadinya perbedaan musim di permukaan dengan periode satu taun tropis. 365,24 hari matahari).
+Bulan merupakan satelit alami bumi, yang mulai mengorbit bumi sekitar 4,53 miliar tahun lalu. Interaksi gravitasi antara bulan dengan bumi merangsang terjadinya pasang laut, menstabil kemiringan sumbu, dna secara bertahap memperlambat rotasi bumi.</item>
+        <item>Planet Mars merupakan planet yang baru-baru ini di temukannya air oleh Lembaga Antariksa Amerika Serikat, dimana di dalam sebuah kehidupan air merupakan hal yang sangat penting untuk berlangsungnya kehidupan.
+Sebelum menyatakan spekulasi bahwa planet mars memiliki kemungkinan untuk di tinggali oleh manusia yang akan datang dan kemungkinan di sana juga ada kehidupan yang terjadi. Penelitian oleh NASA terus bergulir.
+Sampai akhirnya Nasa mendapatkan fakta yang sangat mengejutkan, yang menjadi pembuktian di sana juga di temukan air sebagai sumber kehidupan, jadi masih ada kemungkinan ada kehidupan di sana. Namun untuk mendetailnya hanya Allah swt yang Maha Mengetahui.
+Planet ini sering disebut dengan planet merah, karena bila dilihat dengan mata atau teropong kan tampak warna merah. Permukaan mars terdapat kawah-kawah dengan diameter yang mencapai 200 km. Temperatur mars mencapai 50˚C-60˚C.</item>
+        <item>Salah satu nama-nama planet yang sangat terkenal yang memiliki urutan ke lima dari matahari ini merupakan planet terbesar dalam tata surya. Bahkan, ukuran planet jupiter merupakan dua kali gabungan dari seluruh planet yang ada di dalam susunan tata surya.
+Atmosfer yang terdapat di planet jupiter terdiri dari hidrigen dan helium, serta mempunyai awan dari amoniak dan kristal es. Planet ini memiliki berjuta satelit kecil yang membentuk cincin. Bahkan, sistem jupiter dan satelit-satelitnya bagaikan miniatur dari sistem yang ada dalam susunan tata surya planet.
+Planet terbesar di dalam susunan tata surya ini memiliki diameter sebesar 142.984 km (88.846 mil) di khatulistiwanya. Kepadatan yupiter, yaitu 1,326 g/cm³, merupakan terbesar kedua diantara raksasa gas, namun lebih rendah dari empat planet kebumian lainnya.</item>
+        <item>Saturnus di kenal sebagai planet bercincin dan juga merupakan planet terbesar kedua dalam susunan tata surya planet setelah jupiter. Saturnus tampak tidak terlalu jelas dari bumi ini di disebabkan, karena jaraknya yang sangat jauh dengan matahari.
+Evolusi saturnus 29,46 tahun, setiap 378 hari, bumi, Saturnus dan matahari akan berada dalam satu garis lurus, dan juga berotasi dalam waktu yang sangat singkat, yaitu 10 jam 40 menit 24 detik.
+Susunan dari planet saturnus sebagian besar berupa gas dan cairan dan mempunyai kerapatan yang rendah. Dan memiliki bentuk yang diratakan di kutub dan dibengkakkan keluar di sekitar khatulistiwa. Planet saturnus juga memiliki 18 satelit yang terbesar adalah satelit titan.
+Diameter khatulistiwa saturnus, sebesar 120.536 km (74.867 mil) di mana diameter dari kutub utara ke kutub selatan sebesar 108.728 km (67.535 mil), berbeda 9% bentuk yang diratakan ini karena rotasinya yang sangat cepat, merotasi setiap 10 jam 14 menit waktu bumi.</item>
+        <item>Planet ini di temukan oleh Wilhelm Herschell pada tahun 1781 di Inggris. Kala revolusi 84 tahun dan rotasi 17 jam dan palnet ini mempunyai warna kebiru-biruan. Dalam susunan tata surya planet ini memiliki urutan ke tujuh.
+Atmosfernya adalah yang terdingin dalam sistem tata surya planet, dengan suhu terendah  49 K (-224˚C). Secara kasar uranus massanya 14,5 kali massa Bumi, menjadikan planet yang paling ringan di antara planet-planet raksasa.
+Selain itu kerapatanya 1,27 g/cm³ membuat planet ini paling rendah kedua kepadatannya setelah Saturnus meskipun bergaris tengah lebih lebih besar daripada Neptunus (kira-kira garis tengah bumi), Uranus lebih ringan.</item>
+        <item>Neptunus merupakan planet terjauh dari matahari. Kondisi planet ini hampir sama dengan planet Uranus. kedua planet ini sering di sebut planet kembar. Neptunus merupakan planet yang palng berangin dalam susunan tata surya planet.
+Bahkan, pada planet neptunus bisa terjadi badai sangat besar yang mencapai sepuluh kali kekuatan suatu angin topan di bumi, Hampir cukup untuk memecahkan tembok suara. penyebab badai yang sangat besar masih menjadi misteri yang sangat besar di planet Neptunus.
+Diameter (49.530 km) menjadikan planet neptunus terbesar ke empat dan terbesar ketiga berdasarkan massa. Massa Neptunus tercatat 17 kali lebih besar dari Bumi dan sedikit lebih besar dari Uranus.
+Neptunus memiliki Massa sebesar 1.o243x10 pangkat 26 kgatau 1/19 kali massa jupiter. Jari-jari khatulistiwanya tercatat sebesar 24.764 km, atau sekitar empat kali jari-jari Bumi.</item>
+        <item>Nah, nama-nama planet yang satu ini sekarang sudah tidak ada di dalam susunan tata surya planet. Namun alangkah baiknya anda mengetahui tentang Pluto yang dulu dikenal sempat di kenal sebagai planet yang termasuk dalam anggota sistem tata surya. Kemudian kenapa? sekarang menjadi hilang atau kemana berikut penjelasanya.
+Pluto pertama kali disebut sebagai Planet X oleh astronom Percival Lowell. Dia beralasan itu ada,karena sesuatu yang menyebabkan sedikit variasi di orbit planet Neptunus dan Uranus. Dia percaya hanya tubuh lain yang cukup besar untuk mengerahkan medan gravitasi yang cukup kuat dapat mempengaruhi Neptunus dan Uranus orbit.
+Tapi pada tahun 1930 Pluto secara resmi diberi label planet kesembilan dengan International Astronomical Union dan nama untuk dewa Romawi bawah. Sumbu kutub Pluto tidak menunjuk “up” dan “down” dari bidang sistem tata surya seperti planet Bumi.
+Sebaliknya titik yang lebih dalam menuju Matahari Pluto biasanya jauh dari Matahari daripada planet-planet lain. Namun karena itu orbit eksentrik, itu adalah lebih dekat ke Sun dari Neptunus selama 20 tahun dari orbit 249 tahun nya. Pluto menyeberang di dalam orbit Neptunus pada tanggal 21 Januari, 1979 dan membuat pendekatan terdekatnya dengan Matahari pada tanggal 5 September, 1989. Ini tetap dalam orbit Neptunus hingga 11 Februari 1999. Hal ini tidak akan terjadi lagi sampai September 2226.
+Orbit yang aneh Pluto telah menyebabkan beberapa mengatakan itu adalah “penyelundup trans-Neptunus”. Yang artinya adalah lebih seperti sabuk komet Kuiper dibandingkan sebuah planet.
+Komposisi Pluto tidak diketahui, tetapi kerapatannya (sekitar 2 gm / cm3) mungkin menunjukkan itu adalah campuran dari dan 30% air es dan 70% batu. Daerah terang dari permukaan tampaknya ditutupi dengan es dari nitrogen dan jumlah yang lebih kecil dari metana, etana dan karbon monoksida. Komposisi daerah gelap di permukaan Pluto tidak diketahui.</item>
+
+    </string-array>
+</resources>
